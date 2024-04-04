@@ -10,6 +10,8 @@ public class demo {
 		System.out.print("another 2nd commit");
 		System.out.print("master thired commit");
 		System.out.print("another thired commit");
+		
+		System.out.print("master 4th commit");
 	}
 
 }
